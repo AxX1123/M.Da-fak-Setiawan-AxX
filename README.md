@@ -47,10 +47,8 @@
 
 <div align="center>
   
-  ![Toyota FT86]<img width="2327" height="3481" alt="P1200173" src="https://github.com/user-attachments/assets/30490e49-f837-49a6-a462-c830f1f5b9d3" />
-
-  
-
+  ![Toyota FT86]<img width="3448" height="4592" alt="P1200173" src="https://github.com/user-attachments/assets/e9fbf95c-d064-41a5-8015-caa3a9ced5c2" />
+  ![MOWNERS]<img width="3448" height="4592" alt="P1200877" src="https://github.com/user-attachments/assets/f902a76c-c157-4726-8fbe-0a374082d2e3" />
   
 </div>
 
