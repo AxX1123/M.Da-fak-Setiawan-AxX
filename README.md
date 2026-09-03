@@ -1,2 +1,0 @@
-# AxX
-#Lol = Lol
