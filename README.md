@@ -4,7 +4,7 @@
 
 **Software Engineering Student | Web Developer | Content Creator | Photographer |**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+;Software+Engineering+Student;Photographer;Content+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=116CDF&width=435&lines=Web+Developer+;Software+Engineering+Student;Photographer;Content+Creator)](https://git.io/typing-svg)
 ---
 
 </div>
