@@ -2,7 +2,7 @@
 
 #  Hai, Aku M.Da'fak Setiawan, Nama Online Saya "AxX"! 👋
 
-**Software Engineering Student | Web Developer | Content Creator**
+**Software Engineering Student | Web Developer | Content Creator | Photographer | Videographer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Web+Developer;Tech+%26+Creative+Enthusiast)](https://git.io/typing-svg)
 
@@ -13,9 +13,10 @@
 ### 📌 Tentangku
 
 - 🏫 Sedang menempuh pendidikan di bidang **Rekayasa Perangkat Lunak (RPL)**.
-- 💡 Tertarik pada pengembangan web modern (**HTML, CSS, JavaScript, Python**).
+- 💡 Tertarik pada pengembangan web modern (**HTML, CSS, JavaScript, Python**), dan juga di bidang
+photografi/videografui
 - 🎬 Mengembangkan konten kreatif & desain grafis di waktu luang.
-- 📬 Kontak saya via email: **emailkamu@example.com**
+- 📬 Kontak saya via email: **axxely1123@gmail.com**
 
 ---
 
