@@ -46,7 +46,9 @@
 ### Hasil Photo/Video
 
 <div align="center>
-  ![BMW M4]![Uploading P1200173.JPG…]()
+  ![Toyota FT86]<img width="3448" height="4592" alt="P1200173" src="https://github.com/user-attachments/assets/30490e49-f837-49a6-a462-c830f1f5b9d3" />
+
+
 
   
 
@@ -56,7 +58,7 @@
 
 
 ---
-### 📊 Statistik GitHub![Uploading P1200173.JPG…]()
+### 📊 Statistik GitHub<img width="3448" height="4592" alt="P1200173" src="https://github.com/user-attachments/assets/3675d021-b78f-423e-9442-8fce8cff58e3" />
 
 
 <div align="center">
