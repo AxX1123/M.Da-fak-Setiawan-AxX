@@ -14,7 +14,7 @@
 
 - 🏫 Sedang menempuh pendidikan di bidang **Rekayasa Perangkat Lunak (RPL)**.
 - 💡 Tertarik pada pengembangan web modern (**HTML, CSS, JavaScript, Python**), dan juga di bidang
-photografi/videografui
+photografi/videografi
 - 🎬 Mengembangkan konten kreatif & desain grafis di waktu luang.
 - 📬 Kontak saya via email: **axxely1123@gmail.com**
 
