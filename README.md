@@ -49,15 +49,6 @@
   
 <img width="3448" height="4592" alt="P1200877" src="https://github.com/user-attachments/assets/f902a76c-c157-4726-8fbe-0a374082d2e3" />
 
----
-### 📊 Statistik GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
