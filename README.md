@@ -49,10 +49,6 @@
   ![Toyota FT86]<img width="3448" height="4592" alt="P1200173" src="https://github.com/user-attachments/assets/30490e49-f837-49a6-a462-c830f1f5b9d3" />
 
 
-
-  
-
-
   
 </div>
 
