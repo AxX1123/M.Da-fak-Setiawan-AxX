@@ -48,20 +48,9 @@
 <div align="center>
   ![Toyota FT86]<img width="2327" height="3481" alt="P1200173" src="https://github.com/user-attachments/assets/30490e49-f837-49a6-a462-c830f1f5b9d3" />
 
+  
 
   
-</div>
-
-
----
-### 📊 Statistik GitHub<img width="3448" height="4592" alt="P1200173" src="https://github.com/user-attachments/assets/3675d021-b78f-423e-9442-8fce8cff58e3" />
-
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
