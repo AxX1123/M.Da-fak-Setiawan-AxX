@@ -46,7 +46,8 @@
 ### Hasil Photo/Video
 
 <div align="center>
-  ![BMW M4]
+  ![BMW M4]![Uploading P1200173.JPG…]()
+
   
 
 
@@ -55,7 +56,8 @@
 
 
 ---
-### 📊 Statistik GitHub
+### 📊 Statistik GitHub![Uploading P1200173.JPG…]()
+
 
 <div align="center">
 
